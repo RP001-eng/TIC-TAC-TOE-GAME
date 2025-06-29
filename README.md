@@ -67,4 +67,4 @@ TIC-TAC-TOE-GAME/
 
 ---
 
-### Made with 💻 + ❤️ + 🎮 by [Subramanian7986](https://github.com/RP001-eng)
+### Made with 💻 + ❤️ + 🎮 by [RamPandian G](https://github.com/RP001-eng)
