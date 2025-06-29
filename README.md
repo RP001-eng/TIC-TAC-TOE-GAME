@@ -33,7 +33,7 @@ A **modern and interactive Tic Tac Toe game** built with pure **HTML, CSS, and J
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Subramanian7986/TIC-TAC-TOE-GAME.git
+git clone https://github.com/RP001-eng/TIC-TAC-TOE-GAME.git
 cd TIC-TAC-TOE-GAME
 ```
 
