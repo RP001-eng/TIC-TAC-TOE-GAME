@@ -54,7 +54,7 @@ docker build -t tic-tac-toe .
 
 Run the Container
 docker run -d -p 8080:80 tic-tac-toe
-localhost:8080  --> opens the tic tac toe webpage
+localhost:8080  --> opens the tic tac toe webpage (in the browser )
 
 ### 📁 Project Structure
 
