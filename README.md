@@ -43,6 +43,18 @@ Just open `index.html` in your browser to start playing.
 3. **Add sound effects (optional)**
 Put your sound files (`click.mp3`, `win.mp3`, `draw.mp3`) into the `sounds/` folder.
 
+## 🐳 Run with Docker
+
+This project can also be run using **Docker**, which provides a consistent environment and easy deployment.
+
+### Build the Docker Image
+
+```bash
+docker build -t tic-tac-toe .
+
+Run the Container
+docker run -d -p 8080:80 tic-tac-toe
+
 ## 📁 Project Structure
 
 ```
